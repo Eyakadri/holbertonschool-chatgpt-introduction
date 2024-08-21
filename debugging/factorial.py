@@ -6,7 +6,7 @@ def factorial(n):
     result = 1
     while n > 1:
         result *= n
-        n -= 1  # Decrement n to eventually end the loop
+        n -= 1  # Decrement n to eventually end the loop.
     return result
 
 
